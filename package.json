@@ -1,5 +1,5 @@
 {
-    "name": "@softvisio/api",
+    "name": "@softvisio/geoip-asn",
     "version": "0.0.0",
     "description": "GeoIP ASN",
     "keywords": [

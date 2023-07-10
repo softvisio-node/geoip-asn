@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-import Cli from "#lib/cli";
-import externalResources from "#lib/external-resources";
+import Cli from "#core/cli";
+import externalResources from "#core/external-resources";
 
 const CLI = {
     "title": "Update resources",
@@ -18,11 +18,7 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-externalResources.add( "softvisio-node/core/resources/geolite2-country", import.meta.url );
-externalResources.add( "softvisio-node/core/resources/http", import.meta.url );
-externalResources.add( "softvisio-node/core/resources/public-suffixes", import.meta.url );
-externalResources.add( "softvisio-node/core/resources/subnets", import.meta.url );
-externalResources.add( "softvisio-node/core/resources/tld", import.meta.url );
+externalResources.add( "softvisio-node/geoip-asn/resources/geolite2-asn", import.meta.url );
 
 const res = await externalResources.update( {
     "remote": true,

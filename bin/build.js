@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import Cli from "#lib/cli";
+import Cli from "#core/cli";
 import Geolite2Asn from "#lib/external-resources/geolite2-asn";
 
 const CLI = {

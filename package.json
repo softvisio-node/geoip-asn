@@ -27,6 +27,7 @@
         "./*": "./lib/*.js"
     },
     "scripts": {
+        "build": "node bin/build.js",
         "install": "node bin/update.js",
         "update": "node bin/update.js"
     },

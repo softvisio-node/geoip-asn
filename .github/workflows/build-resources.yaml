@@ -13,6 +13,7 @@ jobs:
         MAXMIND_LICENSE_KEY: ${{ secrets.MAXMIND_LICENSE_KEY }}
     steps:
       - run: |
-          npm explore @softvisio/core -- npm run build
+          npm i @softvisio/geoip-asn \
+          && npm explore @softvisio/geoip-asn -- npm run build
         shell: bash
         working-directory: /var/local/package

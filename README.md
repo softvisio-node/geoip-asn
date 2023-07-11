@@ -6,7 +6,7 @@
 
 <!-- Tell about the project -->
 
-Link to the resources: [https://github.com/softvisio-node/asn/releases/tag/resources](https://github.com/softvisio-node/asn/releases/tag/resources).
+Link to the resources: [https://github.com/softvisio-node/geoip-asn/releases/tag/resources](https://github.com/softvisio-node/geoip-asn/releases/tag/resources).
 
 ## Install
 

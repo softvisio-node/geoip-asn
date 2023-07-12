@@ -18,7 +18,7 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-externalResources.add( "softvisio-node/geoip-asn/resources/geolite2-asn", import.meta.url );
+externalResources.add( "softvisio-node/geoip-asn/resources/geolite2-asn" );
 
 const res = await externalResources.update( {
     "remote": true,

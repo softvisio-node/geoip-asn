@@ -4,7 +4,9 @@
 
 # Introduction
 
-<!-- Tell about the project -->
+Maxmind `GeoIP2 ASN` database.
+
+Database is updated automatically every 4 hours during the process runtime.
 
 ## Install
 
@@ -14,4 +16,8 @@ npm i @softvisio/geoip-asn
 
 ## Usage
 
-<!-- Tell about how to use the project, give code examples -->
+```javascript
+import geiipAsn from "@softvisio/geoip-asn";
+
+const res = geiipAsn.get(ipAddress);
+```

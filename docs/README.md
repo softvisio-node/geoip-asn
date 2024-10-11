@@ -7,7 +7,7 @@ Database is updated automatically every 4 hours during the process runtime.
 ## Install
 
 ```shell
-npm i @softvisio/geoip-asn
+npm install @softvisio/geoip-asn
 ```
 
 ## Usage

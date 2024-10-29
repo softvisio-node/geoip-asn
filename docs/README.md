@@ -15,5 +15,5 @@ npm install @softvisio/geoip-asn
 ```javascript
 import geiipAsn from "@softvisio/geoip-asn";
 
-const res = geiipAsn.get(ipAddress);
+const res = geiipAsn.get( ipAddress );
 ```

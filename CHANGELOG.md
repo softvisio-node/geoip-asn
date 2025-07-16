@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.48 (2025-07-16)
+
+**Other changes:**
+
+- docs: update (● [ee6bdbc](https://github.com/softvisio-node/geoip-asn/commit/ee6bdbc); 👬 zdm)
+
+Compare with the previous release: [v1.0.47](https://github.com/softvisio-node/geoip-asn/compare/v1.0.47...v1.0.48)
+
 ### v1.0.47 (2025-06-07)
 
 **Other changes:**

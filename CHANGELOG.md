@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.50 (2025-07-22)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [232fea7](https://github.com/softvisio-node/geoip-asn/commit/232fea7); 👬 zdm)
+
+Compare with the previous release: [v1.0.49](https://github.com/softvisio-node/geoip-asn/compare/v1.0.49...v1.0.50)
+
 ### v1.0.49 (2025-07-21)
 
 **Other changes:**

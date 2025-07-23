@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.52 (2025-07-23)
+
+**Other changes:**
+
+- style: update .npmrc (● [f0c36d6](https://github.com/softvisio-node/geoip-asn/commit/f0c36d6); 👬 zdm)
+
+Compare with the previous release: [v1.0.51](https://github.com/softvisio-node/geoip-asn/compare/v1.0.51...v1.0.52)
+
 ### v1.0.51 (2025-07-23)
 
 **Bug fixes:**
